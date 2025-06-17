@@ -23,6 +23,7 @@ Olá! 👋 Eu sou a Nathaly, uma profissional em **transição de carreira** par
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### **Banco de Dados & ETL**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -37,6 +38,7 @@ Olá! 👋 Eu sou a Nathaly, uma profissional em **transição de carreira** par
 ### **Desenvolvimento Web**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Ferramentas & Metodologias**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -140,4 +142,3 @@ Olá! 👋 Eu sou a Nathaly, uma profissional em **transição de carreira** par
 ⭐ **Gostou do meu perfil?** Deixe uma estrela nos repositórios que achou interessante!
 
 </div>
-
