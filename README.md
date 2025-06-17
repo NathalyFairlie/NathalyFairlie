@@ -10,7 +10,7 @@ Olá! 👋 Eu sou a Nathaly, uma profissional em **transição de carreira** par
 
 ## 🌐 Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/nathaly_fairlie?tab=achievements)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-690688?style=for-the-badge&logo=gitbook&logoColor=white)](https://web.dio.me/users/nathaly_fairlie?tab=achievements)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nathalyfairliepearsonfreitas/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathalyFairlie)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sites.google.com/view/nathalyfairliepearsonfreitas/p%C3%A1gina-inicial)
@@ -21,7 +21,7 @@ Olá! 👋 Eu sou a Nathaly, uma profissional em **transição de carreira** par
 
 ### **Linguagens de Programação**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-997EE6?style=for-the-badge&logo=mysql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
